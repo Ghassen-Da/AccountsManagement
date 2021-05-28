@@ -1,0 +1,13 @@
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.exe
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.deps.json
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.json
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.dev.json
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.dll
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.pdb
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.csprojAssemblyReference.cache
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfoInputs.cache
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfo.cs
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.csproj.CoreCompileInputs.cache
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.dll
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.pdb
+C:\Users\ghass\Desktop\GL3\semestre 2\.net\TP\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.genruntimeconfig.cache
